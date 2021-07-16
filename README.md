@@ -9,7 +9,7 @@ The aim of this repository was to create a simple image recognition model using 
 # Project structure
 This repository contains only one file which must be executed in the following order:
 
-Pre-trained model and New model on top (mainmodel.py)
+Pre-trained model and New model on top (main.ipynb)
 
 ## Libraries
 The following Python libraries were used in this repository:
